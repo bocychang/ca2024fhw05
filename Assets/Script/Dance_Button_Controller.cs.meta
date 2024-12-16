@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b5f07eda020904760a2896a6cb73de0c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Dance_Button1: {instanceID: 0}
+  - Dance_Button2: {instanceID: 0}
+  - Dance_Button3: {instanceID: 0}
+  - Avatar: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
